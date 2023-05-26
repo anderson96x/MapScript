@@ -27,12 +27,12 @@ REM delayed expansion so it updates the variables
 setlocal enabledelayedexpansion
 
 REM up to 25 shared folders
-set "share[0]=Almoxarifado"
-set "share[1]=AssessoriadaDiretoria"
-set "share[2]=Biblioteca"
-set "share[3]=CAD"
-set "share[4]=Cadernetas-Secretaria-CDE"
-set "share[5]=CalendarioDeCursosCDE"
+set "share[0]=Share1"
+set "share[1]=Share2"
+set "share[2]=Share3"
+set "share[3]=Share4"
+set "share[4]=Share5"
+set "share[5]=Share6"
 
 
 set "letter[0]=A"
